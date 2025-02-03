@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains implementations of Anscombe's Quartet analysis in multiple programming languages. Our our objective here is to determine if using go is a more suitable approach than using r or python because our company in this case wants to identify if go is a faster alternative we are going to benchmark a statistical linear regression model in order to identify if if go takes longer or less time to compute than r and python 
+This repository contains implementations of Anscombe's Quartet analysis in multiple programming languages. Our our objective here is to determine if using go is a more suitable approach than using r or python because our company, in this case, wants to identify if go is a faster alternative. We benchmark a statistical linear regression model in order to identify if if go takes longer or less time to compute than r and python. 
 
 
 - Python (using pandas, statsmodels, matplotlib)
